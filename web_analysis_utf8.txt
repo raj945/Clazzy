@@ -1,0 +1,6 @@
+﻿Analyzing web_notifications.dart...                             
+
+   info - 'dart:html' is deprecated and shouldn't be used. Use package:web and dart:js_interop instead - lib\services\web_notifications.dart:2:1 - deprecated_member_use
+   info - Don't use web-only libraries outside Flutter web plugins - lib\services\web_notifications.dart:2:1 - avoid_web_libraries_in_flutter
+  error - A value of type 'String?' can't be returned from the function 'getWebNotificationPermission' because it has a return type of 'String' - lib\services\web_notifications.dart:17:10 - return_of_invalid_type
+
