@@ -28,6 +28,26 @@ Clazzy is a **zero-friction, always-on time tracker** designed for people who wa
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/home.png" alt="Home Screen" width="180" />
+  &nbsp;&nbsp;
+  <img src="screenshots/calendar.png" alt="Calendar Screen" width="180" />
+  &nbsp;&nbsp;
+  <img src="screenshots/tracker.png" alt="Tracker Screen" width="180" />
+  &nbsp;&nbsp;
+  <img src="screenshots/library.png" alt="Knowledge Hub" width="180" />
+  &nbsp;&nbsp;
+  <img src="screenshots/analytics.png" alt="Analytics Screen" width="180" />
+</p>
+
+<p align="center">
+  <sub>Home · Calendar · Tracker · Library · Analytics</sub>
+</p>
+
+---
+
 ## ✨ Core Features
 
 ### ⏱️ Passive Time Tracking
