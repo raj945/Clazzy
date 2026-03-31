@@ -31,33 +31,33 @@ Clazzy is a **zero-friction, always-on time tracker** designed for people who wa
 ## ✨ Core Features
 
 ### ⏱️ Passive Time Tracking
-- **Always-on timer** — the moment you open Clazzy, it's tracking. No start/stop buttons.
-- **One-tap task switching** — switch between tasks from a beautiful grid on the home screen.
-- **"Unknown" time bucket** — unassigned time is automatically flagged in red so you know exactly how much time slips through the cracks.
-- **Session notes** — add context to any time entry while it's active.
+- **Always-on timer** - the moment you open Clazzy, it's tracking. No start/stop buttons.
+- **One-tap task switching** -  switch between tasks from a beautiful grid on the home screen.
+- **"Unknown" time bucket** - unassigned time is automatically flagged in red so you know exactly how much time slips through the cracks.
+- **Session notes** - add context to any time entry while it's active.
 
 ### 📅 Calendar & Scheduling
-- **Full-day timeline view** — a vertical 24-hour timeline with color-coded event blocks showing your planned schedule.
-- **Recurring events** — support for daily and weekly recurrence with specific day selection.
-- **Event completion tracking** — mark events as completed, with per-instance tracking for recurring events.
-- **"Now" indicator** — see at a glance what's currently happening and what's next.
-- **Overlapping event handling** — intelligent column-based layout when events overlap.
+- **Full-day timeline view** - a vertical 24-hour timeline with color-coded event blocks showing your planned schedule.
+- **Recurring events** - support for daily and weekly recurrence with specific day selection.
+- **Event completion tracking** - mark events as completed, with per-instance tracking for recurring events.
+- **"Now" indicator** - see at a glance what's currently happening and what's next.
+- **Overlapping event handling** - intelligent column-based layout when events overlap.
 - **Month grid** with event indicators for quick navigation.
 
 ### 🎯 Goals & Deadlines
-- **Daily time goals** — set a target (e.g., "4 hours of Deep Work") and track progress with visual ring indicators.
-- **Attendance goals** — track how many scheduled events (e.g., "DSA Class") you actually attended.
-- **Deadline management** — full deadline system with statuses (overdue, due today, due tomorrow, this week, later).
-- **Smart grouping** — deadlines are automatically grouped by urgency with color-coded labels.
-- **Swipe-to-delete with undo** — intuitive gesture-based management.
+- **Daily time goals** - set a target (e.g., "4 hours of Deep Work") and track progress with visual ring indicators.
+- **Attendance goals** - track how many scheduled events (e.g., "DSA Class") you actually attended.
+- **Deadline management** - full deadline system with statuses (overdue, due today, due tomorrow, this week, later).
+- **Smart grouping** - deadlines are automatically grouped by urgency with color-coded labels.
+- **Swipe-to-delete with undo** - intuitive gesture-based management.
 
 ### 📚 Knowledge Hub (Library)
-- **Learning input tracker** — catalog books, videos, courses, podcasts, blogs, and articles you're consuming.
-- **Multi-view modes** — toggle between **List**, **Tree**, and **Board** views per category.
-- **Status workflow** — Saved → In Progress → Completed → Archived.
-- **URL linking** — attach source URLs and open content directly from the app.
-- **Rich notes** — add descriptions, tags, and estimated completion times.
-- **Category management** — rename, delete, and organize learning categories.
+- **Learning input tracker** - catalog books, videos, courses, podcasts, blogs, and articles you're consuming.
+- **Multi-view modes** -  toggle between **List**, **Tree**, and **Board** views per category.
+- **Status workflow** - Saved → In Progress → Completed → Archived.
+- **URL linking** - attach source URLs and open content directly from the app.
+- **Rich notes** -  add descriptions, tags, and estimated completion times.
+- **Category management** - rename, delete, and organize learning categories.
 
 ### 📊 Analytics (3-Tier)
 
@@ -68,15 +68,15 @@ Clazzy is a **zero-friction, always-on time tracker** designed for people who wa
 | **Monthly** | Donut chart allocation, category breakdown, goals vs actual, calendar heatmap (intent vs reality), consistency heatmap (GitHub-style), daily trend lines |
 
 ### 🔔 Smart Notifications
-- **In-app overlay notifications** — beautifully animated, glassmorphic notification banners with action buttons.
-- **System notifications** — native push notifications for Android, iOS, and Web.
+- **In-app overlay notifications** - beautifully animated, glassmorphic notification banners with action buttons.
+- **System notifications** - native push notifications for Android, iOS, and Web.
 - **Multiple notification types**: Calendar reminders, task switch prompts, goal progress alerts, break reminders.
 
 ### 🎨 Task Management
 - **Custom tasks** with name, subtitle, color picker, and category assignment.
-- **Category system** — organize tasks into categories (Learning, Work, Health, etc.) that map to base types.
+- **Category system** -  organize tasks into categories (Learning, Work, Health, etc.) that map to base types.
 - **5 base types** for analytics: `DEEP WORK`, `PERSONAL`, `WASTED`, `SLEEP`, `UNKNOWN`.
-- **Full color picker** — HSL-based color wheel for precise task coloring.
+- **Full color picker**-  HSL-based color wheel for precise task coloring.
 
 ---
 
