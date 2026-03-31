@@ -22,7 +22,7 @@
 
 ## 🧠 What is Clazzy?
 
-Clazzy is a **zero-friction, always-on time tracker** designed for people who want brutal honesty about where their time goes. Unlike traditional time trackers that require manual start/stop, Clazzy tracks **every single second** — categorizing your time into Deep Work, Personal, Wasted, and Sleep buckets so you can confront reality.
+Clazzy is a **zero-friction, always-on time tracker** designed for people who want brutal honesty about where their time goes. Unlike traditional time trackers that require manual start/stop, Clazzy tracks **every single second** - categorizing your time into Deep Work, Personal, Wasted, and Sleep buckets so you can confront reality.
 
 > **The philosophy:** You're always doing *something*. Clazzy simply asks: *what?*
 
